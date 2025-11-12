@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "title": "Economics",
+    "icon_slug": "economics",
+    "count": "20+"
+  },
+  {
+    "id": 1,
+    "title": "Management",
+    "icon_slug": "management",
+    "count": "20+"
+  },
+  {
+    "id": 2,
+    "title": "Sciences & Technology",
+    "icon_slug": "science-tech",
+    "count": "20+"
+  },
+  {
+    "id": 3,
+    "title": "Culture & Creativity",
+    "icon_slug": "culture",
+    "count": "20+"
+  },
+  {
+    "id": 4,
+    "title": "Health & Medicine",
+    "icon_slug": "health",
+    "count": "20+"
+  },
+  {
+    "id": 5,
+    "title": "Medical",
+    "icon_slug": "medical",
+    "count": "20+"
+  },
+  {
+    "id": 6,
+    "title": "Photography",
+    "icon_slug": "photography",
+    "count": "20+"
+  },
+  {
+    "id": 7,
+    "title": "Cinemagraphy",
+    "icon_slug": "cinema",
+    "count": "20+"
+  }
+
+]

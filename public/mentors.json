@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "name": "Saiful Islam",
+    "role": "Senior Web Developer",
+    "imageUrl": "/assets/img/saiful.jpg",
+    "expertise": "Go-to-Market Strategy, Agile Workflow"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Hossain",
+    "role": "Lead Front-End Developer",
+    "imageUrl": "/assets/img/boytecher.jpg.webp",
+    "expertise": "React, Vue, Scalable UI Architecture"
+  },
+  {
+    "id": 3,
+    "name": "Anika Tabassum",
+    "role": "Digital Marketing Consultant",
+    "imageUrl": "/assets/img/mam.jpg",
+    "expertise": "SEO, PPC Campaigns, Analytics"
+  },
+  {
+    "id": 4,
+    "name": "Najnin Sultana",
+    "role": "UX Research Director",
+    "imageUrl": "/assets/img/girlTecher.jpg.jpg",
+    "expertise": "Usability Testing, User Interviews, Prototyping"
+  }
+]
