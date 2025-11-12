@@ -57,7 +57,6 @@ function Categories() {
         </div>
       </div>
 
-      {/* Categories Grid */}
       <motion.div
         className="grid grid-cols-2 sm:grid-cols-4 gap-6"
         variants={containerVariants}
