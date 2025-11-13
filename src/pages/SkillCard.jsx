@@ -1,8 +1,15 @@
 import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
 
 const SkillCard = ({ skill }) => {
   return (
-    <div className="max-w-sm bg-white rounded-xl shadow-md overflow-hidden p-5">
+    <motion.div
+      className="max-w-sm bg-white rounded-xl shadow-md overflow-hidden p-5"
+      initial={{ opacity: 0, y: 50 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.2 }} // animate once when 20% visible
+      transition={{ duration: 0.6, ease: "easeOut" }}
+    >
       <img
         src={skill.image}
         alt={skill.skillName}
@@ -38,7 +45,7 @@ const SkillCard = ({ skill }) => {
           Enroll Now
         </Link>
       </div>
-    </div>
+    </motion.div>
   );
 };
 
