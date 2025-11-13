@@ -72,7 +72,7 @@ const Hero = () => {
 
                   <div className="mt-8 flex justify-center lg:justify-start space-x-4">
                     <NavLink
-                      to="/category/0"
+                      to="/courses"
                       className="px-6 py-3 rounded-md bg-green-500 hover:bg-green-600 text-white"
                     >
                       {slide.btn1}
