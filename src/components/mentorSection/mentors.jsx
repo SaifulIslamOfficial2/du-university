@@ -6,13 +6,9 @@ import techer4 from "../../assets/img/girlTecher.jpg.jpg";
 
 import MentorCard from "./MentorCard";
 import { NavLink } from "react-router-dom";
-// --- Mentor Data Array ---
-
-// --- Mentor Card Component ---
 
 const Mentors = () => {
   const [mentors, setMentors] = useState([]);
-  const [menuOpen, setMenuOpen] = useState(false);
   const mentorImages = [techer1, techer2, techer3, techer4];
   useEffect(() => {
     fetch("/mentors.json")

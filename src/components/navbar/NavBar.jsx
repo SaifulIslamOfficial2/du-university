@@ -37,7 +37,7 @@ export default function NavBar() {
               My Profile
             </Link>
           )}
-          <Link to="/category/0" className="hover:text-indigo-600">
+          <Link to="/courses" className="hover:text-indigo-600">
             All Courses
           </Link>
         </nav>
@@ -122,7 +122,7 @@ export default function NavBar() {
               </Link>
             )}
             <Link
-              to="/category/0"
+              to="/courses"
               onClick={() => setMenuOpen(false)}
               className="hover:text-indigo-600"
             >

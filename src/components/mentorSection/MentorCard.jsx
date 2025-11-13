@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 const MentorCard = ({ name, role, imageUrl, expertise, id }) => {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 50 }} // শুরুতে নিচে থাকবে ও invisible
-      whileInView={{ opacity: 1, y: 0 }} // viewport এ এলে আসবে উপরে
-      viewport={{ once: true, amount: 0.3 }} // একবার দেখালে animation হবে, 30% দেখলেই trigger
+      initial={{ opacity: 0, y: 50 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.3 }}
       transition={{ duration: 0.6, ease: "easeOut" }}
       whileHover={{ scale: 1.05, boxShadow: "0 15px 25px rgba(0,0,0,0.2)" }}
       whileTap={{ scale: 0.95 }}

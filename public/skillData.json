@@ -8,7 +8,7 @@
     "rating": 4.5,
     "slotsAvailable": 5,
     "description": "Learn basic economic principles and market dynamics.",
-    "image": "https://i.postimg.cc/example-econ1.png",
+    "image": "https://bau.edu/blog/wp-content/uploads/2021/11/why-study-economics-and-finance-ba-benefits-and-career-paths-820x547.jpg",
     "category": "Economics"
   },
   {
@@ -20,19 +20,7 @@
     "rating": 4.6,
     "slotsAvailable": 4,
     "description": "Understand the overall economy and national income concepts.",
-    "image": "https://i.postimg.cc/example-econ2.png",
-    "category": "Economics"
-  },
-  {
-    "skillId": 16,
-    "skillName": "Advanced Macroeconomics",
-    "providerName": "Laura White",
-    "providerEmail": "laura@skillswap.com",
-    "price": 40,
-    "rating": 4.7,
-    "slotsAvailable": 5,
-    "description": "Deep dive into macroeconomic models and policies.",
-    "image": "https://i.postimg.cc/example-econ3.png",
+    "image": "https://media.licdn.com/dms/image/v2/D4D12AQEVwvuDRkdkYw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705134804371?e=2147483647&v=beta&t=u3bP_yNX0uoKmuz66tS1lA6X-EWgFs0QP3psws1HMHM",
     "category": "Economics"
   },
   {
@@ -44,35 +32,11 @@
     "rating": 4.7,
     "slotsAvailable": 3,
     "description": "Learn the fundamentals of managing finances in a business.",
-    "image": "https://i.postimg.cc/example-mgmt1.png",
+    "image": "https://www.youngurbanproject.com/wp-content/uploads/2025/02/The-Impact-of-Management-on-Business-Success.jpg",
     "category": "Management"
   },
   {
     "skillId": 3,
-    "skillName": "Project Management Essentials",
-    "providerName": "David Black",
-    "providerEmail": "david@skillswap.com",
-    "price": 40,
-    "rating": 4.8,
-    "slotsAvailable": 6,
-    "description": "Key concepts for planning and executing successful projects.",
-    "image": "https://i.postimg.cc/example-mgmt2.png",
-    "category": "Management"
-  },
-  {
-    "skillId": 17,
-    "skillName": "Investment Strategies",
-    "providerName": "Mark Johnson",
-    "providerEmail": "mark@skillswap.com",
-    "price": 45,
-    "rating": 4.8,
-    "slotsAvailable": 4,
-    "description": "Learn smart investment techniques and portfolio management.",
-    "image": "https://i.postimg.cc/example-mgmt3.png",
-    "category": "Management"
-  },
-  {
-    "skillId": 25,
     "skillName": "Strategic Management",
     "providerName": "Noah Scott",
     "providerEmail": "noah@skillswap.com",
@@ -80,7 +44,7 @@
     "rating": 4.9,
     "slotsAvailable": 4,
     "description": "Learn how to formulate and implement business strategies effectively.",
-    "image": "https://i.postimg.cc/example-mgmt4.png",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/5eQLJ54kbGeaaNTdEZRv0Y/638bc2355bc8705c08573c7f231257fc/GettyImages-1322313718__1_.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
     "category": "Management"
   },
   {
@@ -92,59 +56,11 @@
     "rating": 4.9,
     "slotsAvailable": 5,
     "description": "Learn basic AI concepts and applications in technology.",
-    "image": "https://i.postimg.cc/example-ai1.png",
+    "image": "https://bup.edu.bd/public/upload/department/20241204_1733290716.png",
     "category": "Sciences & Technology"
   },
   {
     "skillId": 5,
-    "skillName": "Basics of Robotics",
-    "providerName": "Frank Lee",
-    "providerEmail": "frank@skillswap.com",
-    "price": 45,
-    "rating": 4.7,
-    "slotsAvailable": 4,
-    "description": "Introduction to robotics and automation technologies.",
-    "image": "https://i.postimg.cc/example-robot1.png",
-    "category": "Sciences & Technology"
-  },
-  {
-    "skillId": 18,
-    "skillName": "Data Analysis with Python",
-    "providerName": "Sophia Brown",
-    "providerEmail": "sophia@skillswap.com",
-    "price": 50,
-    "rating": 4.9,
-    "slotsAvailable": 5,
-    "description": "Perform data analysis and visualization using Python.",
-    "image": "https://i.postimg.cc/example-scitech1.png",
-    "category": "Sciences & Technology"
-  },
-  {
-    "skillId": 24,
-    "skillName": "Blockchain Basics",
-    "providerName": "Ava Lewis",
-    "providerEmail": "ava@skillswap.com",
-    "price": 50,
-    "rating": 4.8,
-    "slotsAvailable": 5,
-    "description": "Understand blockchain technology and its applications.",
-    "image": "https://i.postimg.cc/example-scitech2.png",
-    "category": "Sciences & Technology"
-  },
-  {
-    "skillId": 6,
-    "skillName": "Creative Writing Workshop",
-    "providerName": "Grace Hall",
-    "providerEmail": "grace@skillswap.com",
-    "price": 30,
-    "rating": 4.6,
-    "slotsAvailable": 6,
-    "description": "Enhance your writing skills and storytelling abilities.",
-    "image": "https://i.postimg.cc/example-culture1.png",
-    "category": "Culture & Creativity"
-  },
-  {
-    "skillId": 7,
     "skillName": "Painting for Beginners",
     "providerName": "Henry King",
     "providerEmail": "henry@skillswap.com",
@@ -152,23 +68,11 @@
     "rating": 4.5,
     "slotsAvailable": 5,
     "description": "Learn basic painting techniques and color theory.",
-    "image": "https://i.postimg.cc/example-culture2.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nmE_yL6CRi-HD6z1kWAXr_XJlqGUi0wXVQ&s",
     "category": "Culture & Creativity"
   },
   {
-    "skillId": 19,
-    "skillName": "Digital Illustration",
-    "providerName": "Liam Davis",
-    "providerEmail": "liam@skillswap.com",
-    "price": 30,
-    "rating": 4.6,
-    "slotsAvailable": 6,
-    "description": "Learn to create digital illustrations using popular tools.",
-    "image": "https://i.postimg.cc/example-culture3.png",
-    "category": "Culture & Creativity"
-  },
-  {
-    "skillId": 8,
+    "skillId": 6,
     "skillName": "Nutrition and Health",
     "providerName": "Ivy Scott",
     "providerEmail": "ivy@skillswap.com",
@@ -176,35 +80,11 @@
     "rating": 4.8,
     "slotsAvailable": 4,
     "description": "Understand the fundamentals of nutrition and wellness.",
-    "image": "https://i.postimg.cc/example-health1.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mmzioLBjG0CA0_lwtIwH4cKUlCY1AkALZg&s",
     "category": "Health & Medicine"
   },
   {
-    "skillId": 9,
-    "skillName": "Yoga for Beginners",
-    "providerName": "Jack Miller",
-    "providerEmail": "jack@skillswap.com",
-    "price": 20,
-    "rating": 4.7,
-    "slotsAvailable": 6,
-    "description": "Learn basic yoga poses and breathing exercises.",
-    "image": "https://i.postimg.cc/example-health2.png",
-    "category": "Health & Medicine"
-  },
-  {
-    "skillId": 20,
-    "skillName": "Mindfulness Meditation",
-    "providerName": "Emma Wilson",
-    "providerEmail": "emma@skillswap.com",
-    "price": 20,
-    "rating": 4.8,
-    "slotsAvailable": 5,
-    "description": "Practice mindfulness techniques to reduce stress and increase focus.",
-    "image": "https://i.postimg.cc/example-health3.png",
-    "category": "Health & Medicine"
-  },
-  {
-    "skillId": 10,
+    "skillId": 7,
     "skillName": "Medical Terminology",
     "providerName": "Karen Young",
     "providerEmail": "karen@skillswap.com",
@@ -212,35 +92,11 @@
     "rating": 4.6,
     "slotsAvailable": 3,
     "description": "Learn key medical terms and concepts for healthcare.",
-    "image": "https://i.postimg.cc/example-medical1.png",
+    "image": "https://aeccglobal.com.bd/images/easyblog_articles/40/medical-courses-after-12th-for-bangladeshi-students.webp",
     "category": "Medical"
   },
   {
-    "skillId": 11,
-    "skillName": "First Aid Basics",
-    "providerName": "Leo Walker",
-    "providerEmail": "leo@skillswap.com",
-    "price": 30,
-    "rating": 4.7,
-    "slotsAvailable": 5,
-    "description": "Learn essential first aid skills for emergencies.",
-    "image": "https://i.postimg.cc/example-medical2.png",
-    "category": "Medical"
-  },
-  {
-    "skillId": 21,
-    "skillName": "Anatomy Basics",
-    "providerName": "Daniel Moore",
-    "providerEmail": "daniel@skillswap.com",
-    "price": 35,
-    "rating": 4.7,
-    "slotsAvailable": 4,
-    "description": "Learn human anatomy for medical and healthcare studies.",
-    "image": "https://i.postimg.cc/example-medical3.png",
-    "category": "Medical"
-  },
-  {
-    "skillId": 12,
+    "skillId": 8,
     "skillName": "Photography Basics",
     "providerName": "Mia Turner",
     "providerEmail": "mia@skillswap.com",
@@ -248,11 +104,11 @@
     "rating": 4.8,
     "slotsAvailable": 6,
     "description": "Learn how to take professional-looking photos.",
-    "image": "https://i.postimg.cc/example-photo1.png",
+    "image": "https://community.thriveglobal.com/wp-content/uploads/2019/01/01-New-to-Photography-Types-of-Photography-Every-Beginner-Should-Explore.jpg",
     "category": "Photography"
   },
   {
-    "skillId": 13,
+    "skillId": 9,
     "skillName": "Portrait Photography",
     "providerName": "Nathan Hill",
     "providerEmail": "nathan@skillswap.com",
@@ -260,11 +116,11 @@
     "rating": 4.7,
     "slotsAvailable": 4,
     "description": "Learn techniques for taking stunning portrait photos.",
-    "image": "https://i.postimg.cc/example-photo2.png",
+    "image": "https://cdn.prod.website-files.com/62d84e447b4f9e7263d31e94/655e2cb6e1a751222bc7b550_Why-are-photographers-expensive.jpg",
     "category": "Photography"
   },
   {
-    "skillId": 22,
+    "skillId": 10,
     "skillName": "Landscape Photography",
     "providerName": "Olivia Green",
     "providerEmail": "olivia@skillswap.com",
@@ -272,11 +128,11 @@
     "rating": 4.8,
     "slotsAvailable": 5,
     "description": "Capture beautiful landscapes using advanced photography techniques.",
-    "image": "https://i.postimg.cc/example-photo3.png",
+    "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2023/08/landscape-photography-617.jpg?resize=1500%2C1001&ssl=1",
     "category": "Photography"
   },
   {
-    "skillId": 14,
+    "skillId": 11,
     "skillName": "Cinematography 101",
     "providerName": "Olivia Adams",
     "providerEmail": "olivia@skillswap.com",
@@ -284,23 +140,11 @@
     "rating": 4.9,
     "slotsAvailable": 3,
     "description": "Learn the basics of filmmaking and camera techniques.",
-    "image": "https://i.postimg.cc/example-cinema1.png",
+    "image": "https://aaft.com/blog/wp-content/uploads/2022/04/Cinematography-1024x597.jpg",
     "category": "Cinemagraphy"
   },
   {
-    "skillId": 15,
-    "skillName": "Advanced Video Editing",
-    "providerName": "Paul Carter",
-    "providerEmail": "paul@skillswap.com",
-    "price": 50,
-    "rating": 4.8,
-    "slotsAvailable": 4,
-    "description": "Master video editing techniques and software tools.",
-    "image": "https://i.postimg.cc/example-cinema2.png",
-    "category": "Cinemagraphy"
-  },
-  {
-    "skillId": 23,
+    "skillId": 12,
     "skillName": "Film Lighting Techniques",
     "providerName": "Ethan Clark",
     "providerEmail": "ethan@skillswap.com",
@@ -308,7 +152,7 @@
     "rating": 4.9,
     "slotsAvailable": 4,
     "description": "Master lighting techniques to enhance cinematography.",
-    "image": "https://i.postimg.cc/example-cinema3.png",
+    "image": "https://www.bournemouth.ac.uk/sites/default/files/styles/lightbox/public/assets/images/wiltshire-location1.jpg?itok=xUCtUdeq",
     "category": "Cinemagraphy"
   }
 ]

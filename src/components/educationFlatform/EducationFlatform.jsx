@@ -2,7 +2,6 @@ import React from "react";
 import img1 from "../../assets/img/img1.jpg.jpg";
 import img2 from "../../assets/img/img2.jpg.jpg";
 import img3 from "../../assets/img/daffodil.jpg.jpeg";
-// Import your images or use placeholder services like 'unsplash' or 'picsum'
 
 const EducationFlatform = () => {
   return (
@@ -81,7 +80,6 @@ const EducationFlatform = () => {
               />
             </div>
 
-            {/* Top Right Image - The tall one */}
             <div className="row-span-2 col-span-1 rounded-lg overflow-hidden shadow-xl">
               <img
                 className="w-full h-full object-cover"
@@ -90,7 +88,6 @@ const EducationFlatform = () => {
               />
             </div>
 
-            {/* Bottom Wide Image */}
             <div className="row-span-2 col-span-2 rounded-lg overflow-hidden shadow-xl">
               <img
                 className="w-full h-full object-cover"
@@ -101,8 +98,6 @@ const EducationFlatform = () => {
           </div>
         </div>
       </div>
-
-      {/* --- Horizontal Rule for separation --- */}
 
       {/* Bottom Stats Section */}
       <div className="mt-16 bg-white p-8 rounded-xl shadow-lg border-t-4 border-indigo-600">
@@ -134,7 +129,6 @@ const EducationFlatform = () => {
   );
 };
 
-// Helper components for reusability
 const ChecklistItem = ({ text }) => (
   <li className="flex items-start">
     <svg

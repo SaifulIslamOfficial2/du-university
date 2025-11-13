@@ -8,7 +8,7 @@ import ScrollToTop from "../components/scrollToTop/ScrollToTop";
 function MainLayout() {
   return (
     <div>
-      {/* <ScrollToTop></ScrollToTop> */}
+      <ScrollToTop></ScrollToTop>
       <NavBar></NavBar>
       <Outlet></Outlet>
       <Footer></Footer>

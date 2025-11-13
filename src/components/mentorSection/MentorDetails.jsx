@@ -73,7 +73,6 @@ function MentorDetails() {
               </div>
             </div>
 
-            {/* Right: Price Card + Static Course Info */}
             <div>
               <div className="bg-gradient-to-br from-purple-600 to-pink-600 text-white p-6 rounded-2xl shadow-2xl">
                 <p className="text-sm opacity-90">Amount</p>
@@ -168,7 +167,8 @@ function MentorDetails() {
                 designers, and anyone passionate about understanding users.
               </p>
             </div>
-          )}NP
+          )}
+          NP
           {/* Course Outline */}
           {activeTab === "Course Outline" && (
             <div className="space-y-4">
@@ -195,7 +195,6 @@ function MentorDetails() {
               </ul>
             </div>
           )}
-
           {/* Profile - Only Dynamic Part */}
           {activeTab === "Profile" && (
             <div className="space-y-5">
@@ -215,7 +214,6 @@ function MentorDetails() {
               </p>
             </div>
           )}
-
           {/* Reviews */}
           {activeTab === "Reviews" && (
             <div className="text-center py-8 text-gray-500">

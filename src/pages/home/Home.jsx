@@ -1,4 +1,4 @@
-import Categories from "../../components/category/Categories";
+import CoursFeed from "../../components/cours/CoursFeed";
 import CreatorSection from "../../components/creatorSection/CreatorSection";
 import EducationFlatform from "../../components/educationFlatform/EducationFlatform";
 import Hero from "../../components/hero/Hero";
@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="container mx-auto">
       <Hero></Hero>
-      <Categories></Categories>
+      <CoursFeed></CoursFeed>
       <EducationFlatform></EducationFlatform>
       <Mentors></Mentors>
       <CreatorSection></CreatorSection>
